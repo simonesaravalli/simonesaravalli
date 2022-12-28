@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Simone, a 40 years old DevOps engineer from Italy. I'm passionate in technology, especially Linux, virtualizazion, containers, infrastructure as code.
+
+## Resources on GitHub
+
+* Dotfiles - My personal configuration files on Linux and Windows
+* Homelab - code snippets and templates for Ansible, Docker, k8s, Terraform, etc.
+* Legnochepassione: static website with some wood works made by my talented brother Nicola
