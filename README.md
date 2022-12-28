@@ -19,8 +19,9 @@ I'm Simone Saravalli, working as DevOps Engineer at [FAAC SpA Italy](https://faa
 
 * [Homelab](https://github.com/simonesaravalli/homelab) - Code snippets and templates for Ansible, Docker, k8s, Terraform, etc that I use in my homelab and also for my daily work as DevOps engineer
 * [Dotfiles](https://github.com/simonesaravalli/dotfiles) - My personal configuration files on Linux and Windows
-* Cheatsheets - My collection of Chatsheets for Git, Terraform, k8s, etc.
+* [Cheatsheets](https://github.com/simonesaravalli/cheatsheets) - My collection of Chatsheets for Git, Terraform, k8s, etc.
 * [Legnochepassione](https://github.com/simonesaravalli/legnochepassione): static website with some wood works made by my talented brother Nicola
+* [Arduino](https://github.com/simonesaravalli/arduino): collection of Arduino sketches
 
 <!--
 - 😄 Pronouns: he/him
