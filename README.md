@@ -12,8 +12,8 @@ I'm Simone Saravalli, working as DevOps Engineer at [FAAC SpA Italy](https://faa
 
 - 🔭 I’m currently working on AWS, Terraform, Docker, K8S, Ansible
 - 🌱 I’m currently learning Ansible and k8s
-- 📫 How to reach me: send me an email at s.saravalli@gmail.com or view my [LinkedIn profile](https://www.linkedin.com/in/simone-saravalli)
-- ⚡ Fun fact: I started my IT career as junior Oracle DBA :) My really old blog is still online: https://oracolodeidb.blogspot.com/
+- 📫 How to reach me: send me an email at s.saravalli@gmail.com or view my [LinkedIn profile](https://it.linkedin.com/in/simone-saravalli)
+- ⚡ Fun fact: I started my IT career as junior Oracle DBA :) If you are curious, my old blog is still online: https://oracolodeidb.blogspot.com/
 
 ## Resources on GitHub
 
